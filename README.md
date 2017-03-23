@@ -2,8 +2,9 @@
 This repository contains Stackroute Assignments.
  
 Assignment-1
-    IPL DATASET
-    DATA - https://www.kaggle.com/manasgarg/ipl
+    
+   IPL DATASET
+   DATA - https://www.kaggle.com/manasgarg/ipl
    
    Section - A
 
