@@ -13,7 +13,6 @@ def solve(equation_n,xa,xb,n,tolerance):
 	for i in range(n):
 		xc = xb - eval(equation_n) * ((xb-xa) / (eval(equation_n) - eval(equation_o)))
 		b = abs((xc - xb) / xb)
-
 		if (b < tolerance):
 			break
 		elif (eval(equation_n) * eval(equation_sn) < 0):
@@ -21,8 +20,7 @@ def solve(equation_n,xa,xb,n,tolerance):
 			xb = xc
 			xa = temp
 		elif (eval(equation_n) * eval(equation_sn) >= 0):
-			xb = xc
-	   
+			xb = xc   
 	print ("Root of "+equation_n+'= '+str(xc))
 	
 	
