@@ -18,5 +18,10 @@ Assignment-1
 
      Section - B
          1. Study the data with you and in consultation with your mentor, create a series of plots to justify an analysis of a proposed story.
+         
+        
+assignment2_Algorrithm:
+
+        Implemented Regular-Falsi algorithm in python 3.5
 
 
