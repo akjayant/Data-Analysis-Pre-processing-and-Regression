@@ -1,5 +1,4 @@
-# stackroute_assignment
-This repository contains Stackroute Assignments.
+# Data-Analysis-Pre-processing-and-Regression
  
 Assignment-1
     
@@ -20,8 +19,25 @@ Assignment-1
          1. Study the data with you and in consultation with your mentor, create a series of plots to justify an analysis of a proposed story.
          
         
-assignment2_Algorrithm:
+Assignment2_Algorrithm:
 
         Implemented Regular-Falsi algorithm in python 3.5
+        
+Assignment-3
+                  
+        Numpy libraries practice
+
+Assignment -4
+
+         Linear regression on several datasets
+         
+Assignment -5 
+
+         Movie recmmendation on LENS movie dataset
+         
+ Assignment - 6
+ 
+         Natural Language processing
+ 
 
 
